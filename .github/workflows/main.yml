@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: toeteo/nginx-test-app
+      IMAGE_NAME: toeteo/test-deploy-watcher
       IMAGE_TAG: latest
 
     steps:
